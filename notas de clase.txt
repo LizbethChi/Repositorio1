@@ -1,0 +1,25 @@
+entradas salidas...
+cuando el usuario ingresa un dato
+verificación
+formato
+Debug
+----------
+Console.ReadLine();
+	^
+	|
+puede generar un desborde, que el programa crashee,
+o que no se detenga el programa.
+
+-----------
+formato :)
+debugeo :O
+00001111
+bit= elemento de un registro que es capaz de tener 2 estados 1 o 0
+byte = 8 bits
+-----------
+
+formatos miembro
+boleanos=> verdadero, falso;
+char
+-----------
+parseo
